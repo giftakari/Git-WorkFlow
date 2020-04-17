@@ -1,1 +1,1 @@
-This repository teaches theGit and Github workflow for teams
+This repository teaches the use of Git and Github workflow for teams
